@@ -21,11 +21,13 @@
 
 .aboutus p{
     font-size:2em;
+    font-family: 'Lato', sans-serif;
 }
 .ourteam{
     display:flex;
     flex-direction: column;
     font-weight: lighter;
+    
 }
 
 
@@ -38,4 +40,5 @@
     display:flex;
     justify-content: center;
     flex-wrap: wrap;
+    font-family: 'Lato', sans-serif;
 }
