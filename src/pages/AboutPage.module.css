@@ -2,26 +2,36 @@
     display:flex;
     flex-direction: column;
     align-items: center;
+    font-family: 'Lobster', cursive;
 }
 
 .aboutus{
     display: flex;
     flex-direction: column;
     width: 50%;
+    
     /* text-align: center; */
 }
 
 .aboutus h1{
     align-self: center;
+    font-size: 5em;
+    text-transform: capitalize;
+}
+
+.aboutus p{
+    font-size:2em;
 }
 .ourteam{
     display:flex;
     flex-direction: column;
+    font-weight: lighter;
 }
 
 
 .ourteam h1{
     align-self: center;
+    font-size: 5em;
 }
 
 .teampics{
