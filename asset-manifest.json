@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/community-site-client/static/css/main.64182e1e.chunk.css",
-    "main.js": "/community-site-client/static/js/main.98a5f877.chunk.js",
-    "main.js.map": "/community-site-client/static/js/main.98a5f877.chunk.js.map",
+    "main.css": "/community-site-client/static/css/main.03486cbf.chunk.css",
+    "main.js": "/community-site-client/static/js/main.ef81530e.chunk.js",
+    "main.js.map": "/community-site-client/static/js/main.ef81530e.chunk.js.map",
     "runtime-main.js": "/community-site-client/static/js/runtime-main.64eaee06.js",
     "runtime-main.js.map": "/community-site-client/static/js/runtime-main.64eaee06.js.map",
     "static/css/2.e2dd9b0a.chunk.css": "/community-site-client/static/css/2.e2dd9b0a.chunk.css",
-    "static/js/2.f1dd9d9e.chunk.js": "/community-site-client/static/js/2.f1dd9d9e.chunk.js",
-    "static/js/2.f1dd9d9e.chunk.js.map": "/community-site-client/static/js/2.f1dd9d9e.chunk.js.map",
+    "static/js/2.41488d03.chunk.js": "/community-site-client/static/js/2.41488d03.chunk.js",
+    "static/js/2.41488d03.chunk.js.map": "/community-site-client/static/js/2.41488d03.chunk.js.map",
     "index.html": "/community-site-client/index.html",
-    "precache-manifest.3aa76e572ac68935c727f929bc2bfc54.js": "/community-site-client/precache-manifest.3aa76e572ac68935c727f929bc2bfc54.js",
+    "precache-manifest.68bdbee6c8fdd89557e58cfc19224f84.js": "/community-site-client/precache-manifest.68bdbee6c8fdd89557e58cfc19224f84.js",
     "service-worker.js": "/community-site-client/service-worker.js",
     "static/css/2.e2dd9b0a.chunk.css.map": "/community-site-client/static/css/2.e2dd9b0a.chunk.css.map",
-    "static/css/main.64182e1e.chunk.css.map": "/community-site-client/static/css/main.64182e1e.chunk.css.map",
-    "static/js/2.f1dd9d9e.chunk.js.LICENSE.txt": "/community-site-client/static/js/2.f1dd9d9e.chunk.js.LICENSE.txt",
+    "static/css/main.03486cbf.chunk.css.map": "/community-site-client/static/css/main.03486cbf.chunk.css.map",
+    "static/js/2.41488d03.chunk.js.LICENSE.txt": "/community-site-client/static/js/2.41488d03.chunk.js.LICENSE.txt",
+    "static/media/dsc-home.svg": "/community-site-client/static/media/dsc-home.6cd0311d.svg",
     "static/media/dscIcon.png": "/community-site-client/static/media/dscIcon.145d0c12.png"
   },
   "entrypoints": [
     "static/js/runtime-main.64eaee06.js",
     "static/css/2.e2dd9b0a.chunk.css",
-    "static/js/2.f1dd9d9e.chunk.js",
-    "static/css/main.64182e1e.chunk.css",
-    "static/js/main.98a5f877.chunk.js"
+    "static/js/2.41488d03.chunk.js",
+    "static/css/main.03486cbf.chunk.css",
+    "static/js/main.ef81530e.chunk.js"
   ]
 }
