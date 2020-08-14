@@ -3,14 +3,14 @@ import React from 'react';
 
 
 // import css file
-import styles from './HomePage.module.css';
+import styles from './BlogPage.module.css';
 
-function HomePage() {
+function BlogPage() {
     return (
         <div className={styles.container}>
-            <h1>Home</h1>
+            <h1>Blog</h1>
         </div>
     );
 }
 
-export default HomePage;
+export default BlogPage;

@@ -2,16 +2,17 @@ import React from 'react';
 import Router from './Router';
 
 
-import Header from './components/Header/Header';
 
 // import css file
 import './assets/css/global.css';
+import 'animate.css';
 
 function App() {
     return (
-        <Router>
-            <Header/>
-        </Router>
+        <div className="app">
+
+            <Router/>
+        </div>
     );
 }
 

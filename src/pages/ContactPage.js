@@ -3,14 +3,14 @@ import React from 'react';
 
 
 // import css file
-import styles from './HomePage.module.css';
+import styles from './ContactPage.module.css';
 
-function HomePage() {
+function ContactPage() {
     return (
         <div className={styles.container}>
-            <h1>Home</h1>
+            <h1>Contact</h1>
         </div>
     );
 }
 
-export default HomePage;
+export default ContactPage;
