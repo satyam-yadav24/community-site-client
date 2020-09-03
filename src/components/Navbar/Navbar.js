@@ -12,16 +12,10 @@ export default function Navbar(){
         <div className={styles.navbarContainer}>
             <div className={styles.linksContainer}>
                 <NavLink exact activeClassName={styles.activeLink} to="/">Home</NavLink>
-                <NavLink activeClassName={styles.activeLink} to="/about">About</NavLink>
-                <NavLink activeClassName={styles.activeLink} to="/blog">Blog</NavLink>
-                <NavLink activeClassName={styles.activeLink} to="/contact">Contact</NavLink>
                 <NavLink activeClassName={styles.activeLink} to="/events">Events</NavLink>
-            </div>
-
-            <div className={styles.buttonsContainer}>
-                <NavLink activeClassName={styles.activeLink} to="/collab"><GroupAddIcon fontSize="large"/></NavLink>
-                <NavLink activeClassName={styles.activeLink} to="/badges"><CardMembershipIcon fontSize="large"/></NavLink>
-                <NavLink activeClassName={styles.activeLink} to="/user"><PersonIcon fontSize="large"/></NavLink>
+                <NavLink activeClassName={styles.activeLink} to="/blog">Blogs</NavLink>
+                <NavLink activeClassName={styles.activeLink} to="/about">About</NavLink>
+                <NavLink activeClassName={styles.activeLink} to="/contact">Contact Us</NavLink>
             </div>
         </div>
     );
